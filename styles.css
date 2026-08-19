@@ -1,0 +1,36 @@
+body {
+  background-color: #fbeee0;
+  color: #3b2412;
+}
+
+header,
+footer {
+  background-color: #2e1b0f;
+  color: #f5e9da;
+}
+
+nav a {
+  text-decoration: none;
+  color: #f0c987;
+}
+
+h1,
+h2 {
+  color: #7a3b12;
+}
+
+.brand {
+  color: #f0c987;
+}
+
+.tagline {
+  color: #3b2412;
+}
+
+.price {
+  color: #a8321e;
+}
+
+.indexfooter {
+  color: #f0c987;
+}
